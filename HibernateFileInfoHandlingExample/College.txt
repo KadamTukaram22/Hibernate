@@ -1,0 +1,13 @@
+public com.settergetter;
+public class College{
+public static void main (String args []){
+Studant s = new Studant();
+s.setid (100);
+s.setname("tukaram")
+s.setaddress("marlak")
+System.out.println(int i);
+Sytem.out.pringln(String name);
+System.out.println(String address)
+}
+
+}
